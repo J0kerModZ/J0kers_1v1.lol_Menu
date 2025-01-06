@@ -48,3 +48,6 @@ Thanks For Downloading J0kers 1v1.lol Menu! This mod enhances your gameplay expe
 ## Disclaimer
 
 This mod is intended for educational purposes and personal use. Using this mod in online multiplayer games may result in a ban or other penalties. Use at your own risk!
+<a href="https://github.com/J0kerModZ/J0kers_1v1.lol_Menu/releases"><img src="https://img.shields.io/github/downloads/J0kerModZ/J0ker-Menu/total.svg?style=for-the-badge"></a>
+# Find More
+[![Visit Website](https://img.shields.io/badge/Visit-J0kerModZ.lol-blue?style=for-the-badge)](https://www.j0kermodz.lol)
