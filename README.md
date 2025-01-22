@@ -5,7 +5,7 @@ Thanks For Downloading J0kers 1v1.lol Menu! This mod enhances your gameplay expe
 ## Requirements
 
 [![.Net 6.0](https://img.shields.io/badge/Net-6.0-blue?style=for-the-badge)](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.428-windows-x64-installer)
-[![Melon Loader (6.6)](https://img.shields.io/badge/MelonLoader-blue?style=for-the-badge)](https://github.com/LavaGang/MelonLoader.Installer/releases/download/4.1.1/MelonLoader.Installer.exe)
+[![Melon Loader (6.6)](https://img.shields.io/badge/MelonLoader-green?style=for-the-badge)](https://github.com/LavaGang/MelonLoader.Installer/releases/download/4.1.1/MelonLoader.Installer.exe)
 
 ## Features
 
