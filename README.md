@@ -2,6 +2,11 @@
 
 Thanks For Downloading J0kers 1v1.lol Menu! This mod enhances your gameplay experience with a variety of powerful features to give you a cheating advantage in the game. Whether you're looking to fly, boost your speed, or gain god-like abilities, this menu has it all.
 
+## Requirements
+
+[![.Net 6.0](https://img.shields.io/badge/Visit-J0kerModZ.lol-blue?style=for-the-badge)](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.428-windows-x64-installer)
+[![Melon Loader (6.6)](https://img.shields.io/badge/Visit-J0kerModZ.lol-blue?style=for-the-badge)](https://github.com/LavaGang/MelonLoader.Installer/releases/download/4.1.1/MelonLoader.Installer.exe)
+
 ## Features
 
 ### **Visual**
